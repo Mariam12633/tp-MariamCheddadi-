@@ -1,0 +1,10 @@
+class Etudiant {
+    constructor(nom, prenom, age, id) {
+        this.nom = nom;
+        this.prenom = prenom;
+        this.age = age;
+        this.id = id;
+    }
+}
+
+module.exports = Etudiant;
