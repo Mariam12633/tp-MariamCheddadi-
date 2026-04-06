@@ -1,7 +1,7 @@
 class Client {
-    constructor(firstName, lastName, id_Client) {
+    constructor(firstName, lastName, id) {
         this.firstName = firstName;
         this.lastName = lastName;
-        this.id_Client = id_Client;
+        this.id = id;
     }
 }git status 
